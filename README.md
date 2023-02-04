@@ -3,11 +3,9 @@
 Short the URL in PHP MySQL & JavaScript Free Code
 ===================================================
 
-Youtube Tutorial : https://youtu.be/lltoRXtH43k
+Youtube Tutorial : https://youtu.be/_Tc5sho2xEM
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KHM59LRPNV3YY&source=url
 
